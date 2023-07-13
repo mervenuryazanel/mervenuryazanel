@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 ❤️ I am in love with Javascript Technologies! 
-<br>🔭 I'm currently working on web development (with Typscript and React)
-<br>🌱 I'm currently learning Nestjs
-<br>💬 Ask me abaut anything about web development and UI/UX designing<br>
+<br>🔭 I'm currently working on web development (with Typescript and React)
+<br>🌱 I'm presently learning Nestjs
+<br>💬 Ask me about anything about web development and UI/UX designing<br>
 
 
 ## 🌐 Socials:
